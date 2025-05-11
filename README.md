@@ -1,8 +1,8 @@
 # Corner Plot indicating joint distribution between two parameters at a time
-![Alt text]([https://github.com/tejasbg004/Baysian-inference-sampling-method-for-Siesimic-data-set/blob/main/Cornerplot.jpg])
+![Alt text](https://github.com/tejasbg004/Baysian-inference-sampling-method-for-Siesimic-data-set/blob/main/Cornerplot.jpg)
 
 # Credible and 95% predictive plot indicating 
-![Alt text]([https://github.com/tejasbg004/Baysian-inference-sampling-method-for-Siesimic-data-set/blob/main/intervals.jpg])
+![Alt text](https://github.com/tejasbg004/Baysian-inference-sampling-method-for-Siesimic-data-set/blob/main/intervals.jpg)
 
 ## MATLAB Files and its function
  ### 1 MCMC.m
